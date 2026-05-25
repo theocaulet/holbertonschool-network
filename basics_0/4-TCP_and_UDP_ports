@@ -1,4 +1,2 @@
-#!/bin/bash
-# TCP and UDP ports
-
+#!/usr/bin/env bash
 netstat -lpn
